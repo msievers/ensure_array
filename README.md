@@ -1,5 +1,6 @@
 # EnsureArray
 [![Build Status](https://travis-ci.org/msievers/ensure_array.svg)](https://travis-ci.org/msievers/ensure_array)
+[![Test Coverage](https://codeclimate.com/github/msievers/ensure_array/badges/coverage.svg)](https://codeclimate.com/github/msievers/ensure_array)
 [![Code Climate](https://codeclimate.com/github/msievers/ensure_array/badges/gpa.svg)](https://codeclimate.com/github/msievers/ensure_array)
 
 ## Installation
